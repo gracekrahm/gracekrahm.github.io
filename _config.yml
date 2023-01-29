@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Grace Krahm"
 title_separator          : "-"
 name                     : &name "Grace Krahm"
 description              : &description "personal description"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Grace Krahm"
   avatar           : "circle pfp.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Undergraduate at Agnes Scott College"
   location         : "Decatur, GA"
   employer         :
   email            : "mailto:krahm581@agnesscott.edu"
