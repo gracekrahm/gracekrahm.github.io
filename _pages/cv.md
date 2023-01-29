@@ -15,4 +15,4 @@ redirect_from:
 
 My CV can be downloaded <span style="color:#5DADE2">[here](/files/Krahm_Grace_CV.pdf)</span>.
 
-<iframe src="/files/CV_ONeill.pdf" width="75%" height="660px">
+<iframe src="/files/Krahm_Grace_CV.pdf" width="75%" height="660px">
