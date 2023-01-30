@@ -13,7 +13,8 @@ author_profile: true
 <figure>
   <center>
   <img src="https://esahubble.org/media/archives/fitsimages/original/christoph_kaltseis_13.jpg" alt="Rosette Nebula" style="width:50%">
-  <figcaption>The 5 million year open cluster NGC 2244 in the Risette Nebula. Credit: Christoph Kaltseis(lightstorm.at) & the ESA/ESO/NASA Photoshop FITS Liberator.</figcaption>
+  <figcaption>The 5 million year open cluster NGC 2244 in the Rosette Nebula. 
+    Credit: Christoph Kaltseis(lightstorm.at) & the ESA/ESO/NASA Photoshop FITS Liberator.</figcaption>
 </center>
 </figure>
 
