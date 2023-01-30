@@ -5,6 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 I have been a learning assistant at Agnes Scott's Resource Center for Math and Science since Fall 2021. I provide tutoring and lead workshops for a number of 100-200 level physics, astronomy, and math classes listed below.
+
 ##Astronomy
 * The Solar System/Lab (AST 120)
 * Galaxies and Cosmology (AST 121)
