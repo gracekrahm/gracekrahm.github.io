@@ -8,5 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year Astrophysics major at Agnes Scott College with minors in Mathematics and Dance. My research focuses on star formation and the interstellar medium. When I am not in classes or doing research, I enjoy dancing, knitting, and reading fantasy novels.
+I am a third-year Astrophysics major at Agnes Scott College with minors in Mathematics and Dance. My research focuses on star formation and the interstellar medium. I also enjoy tutoring other students and helping out at Agnes Scott's Bradley Observatory. Outside of academics I enjoy dancing, knitting, and reading fantasy novels.
 
