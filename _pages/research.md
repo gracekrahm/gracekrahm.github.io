@@ -13,9 +13,7 @@ The Antennae galaxies is a pair of merging galaxies that has formed thousands of
 
 The results of this work were presented at the 241st AAS meeting on Tuesday, January 10th. The iPoster can be viewed in the AAS [iPoster gallery](http://aas241-aas.ipostersessions.com/Default.aspx?s=38-DC-32-1C-F6-51-68-1C-6D-76-36-E6-2A-79-C1-CC). An article by Brien Koberlein can be found through [NRAO](https://public.nrao.edu/blogs/star-clusters-are-super-and-research-student-studies-why/).
 
-The results of this work were presented at the 241st AAS meeting on Tuesday, January 10th. The iPoster can be viewed in the AAS [iPoster gallery](http://aas241-aas.ipostersessions.com/Default.aspx?s=38-DC-32-1C-F6-51-68-1C-6D-76-36-E6-2A-79-C1-CC). An article by Brien Koberlein can be found through [NRAO](https://public.nrao.edu/blogs/star-clusters-are-super-and-research-student-studies-why/).
-
-<blockquote class="embedly-card" data-card-align="left"><h4><a href="https://www.youtube.com/watch?v=CeRtJnbCBOw">AAS 241 Press Conference: Building Systems in Our Local Universe</a></h4><p>AAS 241 Press Conference: Building Systems in Our Local Universe Wednesday, 11 January 2023, 10:15 am PST</p></blockquote>
+<blockquote class="embedly-card" data-card-align="left"><h4><a href="[https://public.nrao.edu/blogs/star-clusters-are-super-and-research-student-studies-why]">Star Clusters are Super, and Research Student Studies Why</a></h4><p>Star Clusters are Super, and Research Student Studies Why</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 <br> 
