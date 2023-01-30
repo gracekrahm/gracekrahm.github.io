@@ -39,7 +39,7 @@ For several hundred years, mathmaticians have been trying to prove the existance
 <br>
 
 <hr style = 'background-color:#CCCAC9  ; border-width:0; color:#CCCAC9; height:1px; width:100%;' />
-## HR Diagrams and Ages of Globular Clusters </h2>
+## HR Diagrams and Ages of Globular Clusters
 <sup> <i>Advisor:  Amy Lovell <br> Agnes Scott College</i> </sup> 
 Globular clusters are among the oldest objects in the universe with some being over 13 billion years old. Using the 1m Jacobus Kapteyn SARA Telescope at the Roque de los Muchachos Observatory in La Palma, I obtained detailed photometric data from the M53 and M79 globular clusters. After constructing Hertzsprung-Russell (HR) diagrams of the star clusters, I was able to use isochrones to determine the ages of each of the globular clusters to be close to 12 billion years old. 
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
