@@ -9,7 +9,7 @@ author_profile: true
 
 ## Molecular Clouds in the Merging Antennae Galaxies  
 <sup> <i>Advisor:  Molly Finn and Remy Indebetouw <br> National Radio Astronomy Observatory REU Program </i> </sup>   
-| ![Rosette Nebula](https://github.com/gracekrahm/gracekrahm.github.io/blob/master//images/52118095878_203103f9c4_c.jpg?raw=true](https://esahubble.org/media/archives/fitsimages/original/christoph_kaltseis_13.jpg) |
+| ![Rosette Nebula](https://esahubble.org/media/archives/fitsimages/original/christoph_kaltseis_13.jpg) |
 |:--:|
 | <b>The 5 million year open cluster NGC 2244 in the Risette Nebula. Credit: Christoph Kaltseis(lightstorm.at) & the ESA/ESO/NASA Photoshop FITS Liberator.</b>|  
 
