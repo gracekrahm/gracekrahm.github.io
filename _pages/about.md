@@ -12,4 +12,4 @@ I am a third-year Astrophysics major at Agnes Scott College with minors in Mathe
 
 | ![Grace Krahm on top of the Green Bank Telescope](https://github.com/gracekrahm/gracekrahm.github.io/blob/master//images/52118095878_203103f9c4_c.jpg?raw=true) |
 |:--:|
-| <b>Grace on top of the Green Bank Telescope in Green Bank, West Virginia.</b>|
+| <b>Grace on top of the Green Bank Telescope in Green Bank, West Virginia. Credit NSF/GBO/Jill Malusky</b>|
