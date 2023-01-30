@@ -19,14 +19,12 @@ The results of this work were presented at the 241st AAS meeting on Tuesday, Jan
 ## Determining Radial Velocities of Young Star Clusters   
 <sup> <i>Advisor:  Alexandra Yep <br> Agnes Scott College </i> </sup>   
 How stars and star clusters are moving throughout the sky can tell us a lot about their star formation histories. Using the 0.9 m SARA (Southeastern Association for
-Research in Astronomy) telescope at Kitt Peak (SARA-KP) and its fiber-fed echelle spectrograph, I observed numerous stars in the open cluster NGC 2244. Using the redshift of the stars, I was able to estimate the radial velocity of the star cluster. Combining this radial velocity calculation with proper motion data from Gaia allows for the calculation of the total motion of the star cluster.    
+Research in Astronomy) telescope at Kitt Peak (SARA-KP) and its fiber-fed echelle spectrograph, I observed numerous stars in the open cluster NGC 2244. Using the redshift of the stars, I was able to estimate the radial velocity of the star cluster. Combining this radial velocity calculation with proper motion data from Gaia allows for the calculation of the total motion of the star cluster.   
 <figure>
-  <center>
-  <img src="https://esahubble.org/media/archives/fitsimages/original/christoph_kaltseis_13.jpg" alt="Rosette Nebula" style="width:50%">
-  <figcaption>The 5 million year open cluster NGC 2244 in the Rosette Nebula.   
-   Credit: Christoph Kaltseis(lightstorm.at) & the ESA/ESO/NASA Photoshop FITS Liberator.</figcaption>
-</center>
+  <img src="https://esahubble.org/media/archives/fitsimages/original/christoph_kaltseis_13.jpg" alt="Rosette Nebula">
+  <figcaption>5 million year old star cluster NGC 2244 in the Rosette Nebula. Original by <a href="https://esahubble.org/projects/fits_liberator/fitsimages/christoph_kaltseis_13/">Christoph Kaltseis (Hubble/ESA)</a></figcaption>
 </figure>
+
 <br>
 ## New Constraints on the Dimensions of a Theoretical Perfect Cuboid   
 <sup> <i>Advisor:  Alan Koch <br> Agnes Scott College STEM Scholars Program</i> </sup>   
