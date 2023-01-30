@@ -26,9 +26,3 @@ I have been a learning assistant at Agnes Scott's Resource Center for Math and S
 * Functions and Modeling (MAT 117)
 * Linear Algebra (MAT 206)
 
-
-{% include base_path %}
-
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
-{% endfor %}
