@@ -31,17 +31,6 @@ Here is a link to the [iPoster](http://aas241-aas.ipostersessions.com/Default.as
 <hr style = 'background-color:#CCCAC9  ; border-width:0; color:#CCCAC9; height:1px; width:100%;' />
 <h3> The Search for a Cuboid </h3>
 <sup> <i>July 2021, Agnes Scott STEM Scholars Symbosium</i> </sup> 
-<br>
 
-
-{% if site.talkmap_link == true %}
-
-<p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
-
-{% endif %}
-
-{% for post in site.talks reversed %}
-  {% include archive-single-talk.html %}
-{% endfor %}
 
 
