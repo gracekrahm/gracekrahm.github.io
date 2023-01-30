@@ -21,7 +21,7 @@ The results of this work were presented at the 241st AAS meeting on Tuesday, Jan
 How stars and star clusters are moving throughout the sky can tell us a lot about their star formation histories. Using the 0.9 m SARA (Southeastern Association for
 Research in Astronomy) telescope at Kitt Peak (SARA-KP) and its fiber-fed echelle spectrograph, I observed numerous stars in the open cluster NGC 2244. Using the redshift of the stars, I was able to estimate the radial velocity of the star cluster. Combining this radial velocity calculation with proper motion data from Gaia allows for the calculation of the total motion of the star cluster.   
 <figure>
-  <img src="https://esahubble.org/media/archives/fitsimages/original/christoph_kaltseis_13.jpg" alt="Rosette Nebula" style="width:75%">
+  <img src="https://esahubble.org/media/archives/fitsimages/original/christoph_kaltseis_13.jpg" alt="Rosette Nebula" style="width:63%">
   <figcaption>5 million year old star cluster NGC 2244 in the Rosette Nebula. Original by <a href="https://esahubble.org/projects/fits_liberator/fitsimages/christoph_kaltseis_13/">Christoph Kaltseis (Hubble/ESA)</a></figcaption>
 </figure>
 <br>
@@ -29,7 +29,7 @@ Research in Astronomy) telescope at Kitt Peak (SARA-KP) and its fiber-fed echell
 <sup> <i>Advisor:  Alan Koch <br> Agnes Scott College STEM Scholars Program</i> </sup>   
 For several hundred years, mathmaticians have been trying to prove the existance of a perfect cuboid: a box-like shape with integer side and diagonal lengths. Using modular arithmetic, I was able to place additional constraints on the side lengths a perfect must have is such an object does exist. I also determined the minimum volume of a cuboid to be a multiple of 12,640,320.  
 <figure>
-  <img src="https://github.com/gracekrahm/gracekrahm.github.io/blob/master//images/euler box.PNG?raw=true" alt="perfect cuboid.png" style="width:75%">
+  <img src="https://github.com/gracekrahm/gracekrahm.github.io/blob/master//images/euler box.PNG?raw=true" alt="perfect cuboid.png" style="width:63%">
   <figcaption>A perfect cuboid would require integer values of all side and diagonal lengths x, y, z, r, s, t, and u. </a></figcaption>
 </figure>
 
