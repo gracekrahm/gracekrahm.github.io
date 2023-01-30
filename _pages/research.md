@@ -9,7 +9,6 @@ author_profile: true
 
 ## Molecular Clouds in the Merging Antennae Galaxies  
 <sup> <i>Advisor:  Molly Finn and Remy Indebetouw <br> National Radio Astronomy Observatory REU Program </i> </sup>  
-<div style="width:50%; font-size:80%; text-align:center;"><img src="URL" alt="alternate text" width="width" height="height" style="padding-bottom:0.5em;" />This is my caption>
 
 <div class="image" style="display:table;">
     <img src="https://esahubble.org/media/archives/fitsimages/original/christoph_kaltseis_13.jpg" alt="Rosette Nebula.jpg" width="50%"/>
