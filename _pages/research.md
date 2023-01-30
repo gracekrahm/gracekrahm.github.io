@@ -24,9 +24,6 @@ Research in Astronomy) telescope at Kitt Peak (SARA-KP) and its fiber-fed echell
   <img src="https://esahubble.org/media/archives/fitsimages/original/christoph_kaltseis_13.jpg" alt="Rosette Nebula">
   <figcaption>5 million year old star cluster NGC 2244 in the Rosette Nebula. Original by <a href="https://esahubble.org/projects/fits_liberator/fitsimages/christoph_kaltseis_13/">Christoph Kaltseis (Hubble/ESA)</a></figcaption>
 </figure>
-| ![Rosette Nebula](https://esahubble.org/media/archives/fitsimages/original/christoph_kaltseis_13.jpg) |
-|:--:|
-| <b>Grace on top of the Green Bank Telescope in Green Bank, West Virginia. Credit NSF/GBO/Jill Malusky</b>|
 <br>
 ## New Constraints on the Dimensions of a Theoretical Perfect Cuboid   
 <sup> <i>Advisor:  Alan Koch <br> Agnes Scott College STEM Scholars Program</i> </sup>   
