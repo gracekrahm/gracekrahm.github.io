@@ -10,6 +10,7 @@ author_profile: true
 ## Molecular Clouds in the Merging Antennae Galaxies  
 <sup> <i>Advisor:  Molly Finn and Remy Indebetouw <br> National Radio Astronomy Observatory REU Program </i> </sup>   
 The Antennae galaxies is a pair of merging galaxies that has formed thousands of super star clusters (SSCs). Using ALMA observations of CO I identified and characterized the molecular clouds in the overlap region between the two galaxies. I found that the molecular clouds are very dense and require extremely hiigh external pressures to remain gravitationally bound due to their high amount of turbulence. This is consistent with other large galaxies with high star formation rates, as well as molecular clouds at the centers of galaxies, regardless of their star formation rates. Comparing the Antennae molecular clouds to SSC-forming dwarf galaxies also suggests that the physical properties needed to form SSCs in dwarf galaxies are significantly different to massive galaxies.   
+
 <br> 
 
 ## Determining Radial Velocities of Young Star Clusters   
