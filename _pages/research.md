@@ -28,7 +28,7 @@ Research in Astronomy) telescope at Kitt Peak (SARA-KP) and its fiber-fed echell
 <br>
 ## New Constraints on the Dimensions of a Theoretical Perfect Cuboid   
 <sup> <i>Advisor:  Prof. Alan Koch <br> Agnes Scott College STEM Scholars Program</i> </sup>   
-For several hundred years, mathmaticians have been trying to prove the existance of a perfect cuboid: a box-like shape with integer side and diagonal lengths. Using modular arithmetic, I was able to place additional constraints on the side lengths a perfect must have is such an object does exist. I also determined the minimum volume of a cuboid to be a multiple of 12,640,320.  
+Perfect cuboids are theoretical boxes with that have all integer dimensions (three sides and four diagonals). In the hundreds of years since the perfect cuboid was first proposed, no one has been able to find one, or even prove if it can exist. Using numerical analysis and modeular arithmetic, I was able to place additional constraints on the side lengths a perfect must have is such an object does exist. I also determined the minimum volume of a cuboid to be a multiple of 12,640,320.  
 <figure>
   <img src="https://github.com/gracekrahm/gracekrahm.github.io/blob/master//images/euler box.PNG?raw=true" alt="perfect cuboid.png" style="width:63%">
   <figcaption>A perfect cuboid would require integer values of all side and diagonal lengths x, y, z, r, s, t, and u. </a></figcaption>
