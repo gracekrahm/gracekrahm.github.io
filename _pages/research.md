@@ -9,10 +9,11 @@ author_profile: true
 # Current Projects
 <!--- add dense gas and nebular lines projects --->
 ### The Impact of Nebular Line Emission on SED-Derived Galaxy Properties
+<sup> <i>Advisor:  [Prof. Desika Narayanan](https://users.astro.ufl.edu/~desika.narayanan/?_ga=2.141542002.1560168561.1688651532-1019492946.1677692060&_gl=1*10cz6p5*_ga*MTAxOTQ5Mjk0Ni4xNjc3NjkyMDYw*_ga_Z6EMXX5V8Z*MTY4ODY1MTUzMS4xMS4wLjE2ODg2NTE1MzEuMC4wLjA.*_ga_GJS7WPVXS3*MTY4ODY1MTUzMS4xMi4wLjE2ODg2NTE1MzEuMC4wLjA.) <br> University of Florida REU Program </i> </sup>  
 Spectral energy distributions (SEDs) are commonly used to derive various physical properties of galaxies such as mass and star formation rate. One difficulty of fitting SEDs to observations is the involvement of nebular line emission from HII regions around young stars. The additional flux from these emission lines can cause the fitted SEDs to overestimate the masses of galaxies. This is especially true as redshift increases due to the nebular lines making up a larger fraction of the total observed flux. Using the known masses of simulated galaxies as ground truth, we can create mock SEDs with and without nebular lines and quantify how they affect the galaxy SEDs and their derived properties. 
 
 ### Dense Gas in the Antennae Overlap
-<sup> <i>Advisors:  [Dr. Molly Finn](https://www.mollykfinn.com/) and Prof. Remy Indebetouw <br> National Radio Astronomy Observatory REU Program </i> </sup>  
+<sup> <i>Advisors:  [Dr. Molly Finn](https://www.mollykfinn.com/) and Prof. Remy Indebetouw <br> National Radio Astronomy Observatory </i> </sup>  
 In both Milky Way and extragalactic studies, dense gas has been shown to be closely linked with star formation. HCO+ and HCN are often used to trace this dense gas due to their bright emission and high critical densities. These tracers have recently been of interest for their potential to trace the evolutionary stage of molecular clouds as they are forming super star clusters (SSCs). The Antennae overlap has a large population of young SSCs in a variety of evolutionary stages, including the only known candidate proto-SSC that has not yet begun star formation. This makes the Antennae overlap an ideal location to probe the evolution of the dense gas up until the earliest stages of SSC formation.
 
 # Past Projects
