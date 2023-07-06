@@ -8,13 +8,14 @@ author_profile: true
 ---
 # Current Projects
 <!--- add dense gas and nebular lines projects --->
+### The Impact of Nebular Line Emission on SED-Derived Galaxy Properties
+Spectral energy distributions (SEDs) are commonly used to derive various physical properties of galaxies such as mass and star formation rate. One difficulty of fitting SEDs to observations is the involvement of nebular line emission from HII regions around young stars. The additional flux from these emission lines can cause the fitted SEDs to overestimate the masses of galaxies. This is especially true as redshift increases due to the nebular lines making up a larger fraction of the total observed flux. Using the known masses of simulated galaxies as ground truth, we can create mock SEDs with and without nebular lines and quantify how they affect the galaxy SEDs and their derived properties. 
+
 ### Dense Gas in the Antennae Overlap
 <sup> <i>Advisors:  [Dr. Molly Finn](https://www.mollykfinn.com/) and Prof. Remy Indebetouw <br> National Radio Astronomy Observatory REU Program </i> </sup>  
 In both Milky Way and extragalactic studies, dense gas has been shown to be closely linked with star formation. HCO+ and HCN are often used to trace this dense gas due to their bright emission and high critical densities. These tracers have recently been of interest for their potential to trace the evolutionary stage of molecular clouds as they are forming super star clusters (SSCs). The Antennae overlap has a large population of young SSCs in a variety of evolutionary stages, including the only known candidate proto-SSC that has not yet begun star formation. This makes the Antennae overlap an ideal location to probe the evolution of the dense gas up until the earliest stages of SSC formation.
 
-<br>
 # Past Projects
-<br>
 ### Molecular Clouds in the Merging Antennae Galaxies
 <sup> <i>Advisors:  [Dr. Molly Finn](https://www.mollykfinn.com/) and Prof. Remy Indebetouw <br> National Radio Astronomy Observatory REU Program </i> </sup>  
 The Antennae galaxies are a pair of merging galaxies that has formed thousands of super star clusters (SSCs). Using ALMA observations of CO, I identified and characterized the molecular clouds in the overlap region between the two galaxies. I found that the molecular clouds are very dense and require extremely hiigh external pressures to remain gravitationally bound due to their high amount of turbulence. This is consistent with other large galaxies with high star formation rates and molecular clouds at the centers of galaxies, regardless of their star formation rates. Comparing the Antennae molecular clouds to SSC-forming dwarf galaxies also suggests that the physical properties needed to form SSCs in dwarf galaxies are significantly different to massive galaxies.   
