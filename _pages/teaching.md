@@ -13,6 +13,8 @@ I have been a learning assistant at Agnes Scott's Resource Center for Math and S
 - The Solar System/Lab (AST 120)  
 - Galaxies and Cosmology (AST 121)  
 - Intermediate Observational Techniques (AST 200L)  
+- Astrophysics I: Radiation (AST 300)
+- Astrophysics II: Dynamics (AST 301)
 
 <br>
 <hr style = 'background-color:#CCCAC9  ; border-width:0; color:#CCCAC9; height:1px; width:100%;' />
@@ -20,6 +22,7 @@ I have been a learning assistant at Agnes Scott's Resource Center for Math and S
 - Intro Physics I/Lab: Mechanics (PHY 102 and 202)  
 - Intro Physics II/Lab: Electricity and Magnetism (PHY 103 and 203)  
 - Modern Physics (PHY 210)  
+- Classical Mechanics (PHY 321)
 
 <br>
 <hr style = 'background-color:#CCCAC9  ; border-width:0; color:#CCCAC9; height:1px; width:100%;' />  
