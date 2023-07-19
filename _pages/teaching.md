@@ -29,6 +29,6 @@ I have been a learning assistant at Agnes Scott's Resource Center for Math and S
 - Linear Algebra (MAT 206)  
 
 
-</br>
+<br>
 For students in any of these classes feel free to come to my drop-in hours. A typical weekly schedule for this semester is shown below. 
 <iframe src="/files/Grace-Krahm-Fall-2023-Schedule.png" width="75%" height="660px">
