@@ -45,18 +45,23 @@ Research in Astronomy) telescope at Kitt Peak (SARA-KP) and its fiber-fed echell
 ### New Constraints on the Dimensions of a Theoretical Perfect Cuboid   
 <sup> <i>Advisor:  Prof. Alan Koch <br> Agnes Scott College STEM Scholars Program</i> </sup>   
 Perfect cuboids are theoretical boxes with that have all integer dimensions (three sides and four diagonals). In the hundreds of years since the perfect cuboid was first proposed, no one has been able to find one, or even prove if it can exist. Using numerical analysis and modeular arithmetic, I was able to place additional constraints on the side lengths a perfect must have is such an object does exist. I also determined the minimum volume of a cuboid to be a multiple of 12,640,320.  
-<figure>
+<p align="center">
   <img src="https://github.com/gracekrahm/gracekrahm.github.io/blob/master//images/euler box.PNG?raw=true" alt="perfect cuboid.png" style="width:63%">
-  <figcaption>A perfect cuboid would require integer values of all side and diagonal lengths x, y, z, r, s, t, and u.</figcaption>
-</figure>
+  <br>
+  A perfect cuboid would require integer values of all side and diagonal lengths x, y, z, r, s, t, and u.
+</p>
+
 
 <br>
 ### HR Diagrams and Ages of Globular Clusters  
 <sup> <i>Advisor:  Prof. Amy Lovell <br> Agnes Scott College</i> </sup>   
 Globular clusters are among the oldest objects in the universe with some being over 13 billion years old. Using the 1m Jacobus Kapteyn SARA Telescope at the Roque de los Muchachos Observatory in La Palma, I obtained detailed photometric data from the M53 and M79 globular clusters. After constructing Hertzsprung-Russell (HR) diagrams of the star clusters, I was able to use isochrones to determine the ages of each of the globular clusters to be close to 12 billion years old, although M53 is slightly older than M79.     
-<figure>
+
+<p align="center">
   <img src="https://github.com/gracekrahm/gracekrahm.github.io/blob/master//images/m53.jpg?raw=true" alt="m53.jpg" style="width:47%">
   <img src="https://github.com/gracekrahm/gracekrahm.github.io/blob/master//images/m79.png?raw=true" alt="m79.jpg" style="width:47%">
-  <figcaption>Globular clusters M53 (left) and M79 (right). Credit NASA & ESA/Hubble</figcaption>
-</figure>
+  <br>
+  Globular clusters M53 (left) and M79 (right). Credit NASA & ESA/Hubble
+</p>
+
 
