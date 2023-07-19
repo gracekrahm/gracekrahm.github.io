@@ -15,6 +15,10 @@ Spectral energy distributions (SEDs) are commonly used to derive various physica
 ### Dense Gas Tracing SSC Formation in the Antennae Overlap
 <sup> <i>Advisors:  [Dr. Molly Finn](https://www.mollykfinn.com/) and Prof. Remy Indebetouw <br> National Radio Astronomy Observatory </i> </sup>  
 In both Milky Way and extragalactic studies, dense gas has been shown to be closely linked with star formation. HCO+ and HCN are often used to trace this dense gas due to their bright emission and high critical densities. These tracers have recently been of interest for their potential to trace the evolutionary stage of molecular clouds as they are forming super star clusters (SSCs). The Antennae overlap has a large population of young SSCs in a variety of evolutionary stages, including the only known candidate proto-SSC that has not yet begun star formation. This makes the Antennae overlap an ideal location to probe the evolution of the dense gas up until the earliest stages of SSC formation.
+<figure>
+  <img src="/files/dense gas evolution.PNG" style="width:50%">
+  <figcaption>Ratios of HCN/HCO+ and HCO+/CO with a schematic showing the stages of evolution adapted from Finn et al. (2019). HCN/HCO+ appears to decrease with age, while HCO+/CO appears to increase with age.</a></figcaption>
+</figure>
 
 # Past Projects
 ### Molecular Cloud Properties in the Merging Antennae Galaxies
