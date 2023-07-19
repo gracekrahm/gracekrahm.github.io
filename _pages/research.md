@@ -19,6 +19,7 @@ In both Milky Way and extragalactic studies, dense gas has been shown to be clos
   <img src="/files/dense gas evolution.PNG" style="width:50%">
   <br>
   Ratios of HCN/HCO+ and HCO+/CO with a schematic showing the stages of evolution adapted from Finn et al. (2019). HCN/HCO+ appears to decrease with age, while HCO+/CO appears to increase with age.
+</p>
 
 
 # Past Projects
