@@ -27,3 +27,8 @@ I have been a learning assistant at Agnes Scott's Resource Center for Math and S
 - Calculus 1-3 (MAT 118, 119, and 220)  
 - Functions and Modeling (MAT 117)  
 - Linear Algebra (MAT 206)  
+
+
+</br>
+For students in any of these classes feel free to come to my drop-in hours. A typical weekly schedule for this semester is shown below. 
+<iframe src="/files/Grace-Krahm-Fall-2023-Schedule.png" width="75%" height="660px">
