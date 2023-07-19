@@ -23,6 +23,7 @@ I have been a learning assistant at Agnes Scott's Resource Center for Math and S
 - Intro Physics II/Lab: Electricity and Magnetism (PHY 103 and 203)  
 - Modern Physics (PHY 210)  
 - Classical Mechanics (PHY 321)
+- Intro to Computer Programming (PHY/MAT 131)
 
 <br>
 <hr style = 'background-color:#CCCAC9  ; border-width:0; color:#CCCAC9; height:1px; width:100%;' />  
