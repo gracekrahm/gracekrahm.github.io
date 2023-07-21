@@ -29,18 +29,21 @@ The Antennae galaxies are a pair of merging galaxies that has formed thousands o
 
 The results of this work were presented at the 241st AAS meeting on Tuesday, January 10th. The iPoster can be viewed in the AAS [iPoster gallery](http://aas241-aas.ipostersessions.com/Default.aspx?s=38-DC-32-1C-F6-51-68-1C-6D-76-36-E6-2A-79-C1-CC). An article was also written by Brien Koberlein can be found below.
 
-<blockquote class="embedly-card" data-card-align="left"><h4><a href="[https://public.nrao.edu/blogs/star-clusters-are-super-and-research-student-studies-why]">Star Clusters are Super, and Research Student Studies Why</a></h4><p>Star Clusters are Super, and Research Student Studies Why</p></blockquote>
-<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
-Paper: Under Review 
+<p align="center">
+  <blockquote class="embedly-card" data-card-align="left"><h4><a href="[https://public.nrao.edu/blogs/star-clusters-are-super-and-research-student-studies-why]">Star Clusters are Super, and Research Student Studies Why</a></h4><p>Star Clusters are Super, and Research Student Studies Why</p></blockquote>
+  <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+  Paper: Under Review 
+</p>
 <br> 
 ### Determining Radial Velocities of Young Star Clusters   
 <sup> <i>Advisor:  Dr. Alexandra Yep <br> Agnes Scott College </i> </sup>   
 How stars and star clusters are moving throughout the sky can tell us a lot about their star formation histories. Using the 0.9 m SARA (Southeastern Association for
 Research in Astronomy) telescope at Kitt Peak (SARA-KP) and its fiber-fed echelle spectrograph, I observed numerous stars in the open cluster NGC 2244. Using the redshift of the stars, I was able to estimate the radial velocity of the star cluster. Combining this radial velocity calculation with proper motion data from Gaia allows for the calculation of the total motion of the star cluster.   
-<figure>
+<p align="center">
   <img src="https://esahubble.org/media/archives/fitsimages/original/christoph_kaltseis_13.jpg" alt="Rosette Nebula" style="width:63%">
-  <figcaption>5 million year old star cluster NGC 2244 in the Rosette Nebula. Original by <a href="https://esahubble.org/projects/fits_liberator/fitsimages/christoph_kaltseis_13/">Christoph Kaltseis (Hubble/ESA)</a></figcaption>
-</figure>
+  <br>
+  5 million year old star cluster NGC 2244 in the Rosette Nebula. Original by <a href="https://esahubble.org/projects/fits_liberator/fitsimages/christoph_kaltseis_13/">Christoph Kaltseis (Hubble/ESA)</a></figcaption>
+</p>
 <br>
 ### New Constraints on the Dimensions of a Theoretical Perfect Cuboid   
 <sup> <i>Advisor:  Prof. Alan Koch <br> Agnes Scott College STEM Scholars Program</i> </sup>   
