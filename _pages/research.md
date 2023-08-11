@@ -12,9 +12,7 @@ author_profile: true
 <sup> <i>Advisor:  [Prof. Desika Narayanan](https://users.astro.ufl.edu/~desika.narayanan/?_ga=2.141542002.1560168561.1688651532-1019492946.1677692060&_gl=1*10cz6p5*_ga*MTAxOTQ5Mjk0Ni4xNjc3NjkyMDYw*_ga_Z6EMXX5V8Z*MTY4ODY1MTUzMS4xMS4wLjE2ODg2NTE1MzEuMC4wLjA.*_ga_GJS7WPVXS3*MTY4ODY1MTUzMS4xMi4wLjE2ODg2NTE1MzEuMC4wLjA.) <br> University of Florida REU Program </i> </sup>  
 Spectral energy distributions (SEDs) are commonly used to derive various physical properties of galaxies such as mass and star formation rate. One difficulty of fitting SEDs to observations is the involvement of nebular line emission from HII regions around young stars. The additional flux from these emission lines can cause the fitted SEDs to overestimate the masses of galaxies. This is especially true as redshift increases due to the nebular lines making up a larger fraction of the total observed flux. Using the known masses of simulated galaxies as ground truth, we can create mock SEDs with and without nebular lines and quantify how they affect the galaxy SEDs and their derived properties. 
 
-<p align="center">
-  [![](https://markdown-videos-api.jorgenkh.no/youtube/VpnKB16MQpU)](https://youtu.be/VpnKB16MQpU)   
-</p>
+[![](https://markdown-videos-api.jorgenkh.no/youtube/VpnKB16MQpU)](https://youtu.be/VpnKB16MQpU)   
 
 ### Dense Gas Tracing SSC Formation in the Antennae Overlap
 <sup> <i>Advisors:  [Dr. Molly Finn](https://www.mollykfinn.com/) and Prof. Remy Indebetouw <br> National Radio Astronomy Observatory </i> </sup>  
