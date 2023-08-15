@@ -13,6 +13,6 @@ redirect_from:
 
 {% include base_path %}
 
-My CV can be downloaded <span style="color:#5DADE2">[here](/files/Krahm_Grace_CV.pdf)</span>.
+My CV can be downloaded <span style="color:#5DADE2">[here](/files/Krahm_Grace_CV (2).pdf)</span>.
 
-<iframe src="/files/Krahm_Grace_CV.pdf" width="75%" height="660px">
+<iframe src="/files/Krahm_Grace_CV (2).pdf" width="75%" height="660px">
