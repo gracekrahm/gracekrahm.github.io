@@ -4,7 +4,7 @@ title: "Tutoring"
 permalink: /teaching/
 author_profile: true
 ---
-I have been a learning assistant at Agnes Scott's Resource Center for Math and Science since Fall 2021. I provide tutoring and lead workshops for a number of 100-200 level physics, astronomy, and math classes listed below.
+I have been a learning assistant at Agnes Scott's Resource Center for Math and Science since Fall 2021. I provide tutoring and lead workshops for a number of 100-300 level physics, astronomy, and math classes listed below.
 
 
 <hr style = 'background-color:#CCCAC9  ; border-width:0; color:#CCCAC9; height:1px; width:100%;' />
