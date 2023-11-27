@@ -6,6 +6,11 @@ author_profile: true
 ---
 <hr style = 'background-color:#CCCAC9  ; border-width:0; color:#CCCAC9; height:1px; width:100%;' />
 <h3> The Impact of Nebular Line Emission on SED-Derived Galaxy Properties </h3>
+<sup> <i>November 2023, Georgia Regional Astronomy Meeting</i> </sup> 
+<br> 
+
+<hr style = 'background-color:#CCCAC9  ; border-width:0; color:#CCCAC9; height:1px; width:100%;' />
+<h3> The Impact of Nebular Line Emission on SED-Derived Galaxy Properties </h3>
 <sup> <i>August 2023, University of Florida Summer Student Research Symposium</i> </sup> 
 <br> 
 
