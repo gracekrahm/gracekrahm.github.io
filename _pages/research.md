@@ -36,7 +36,7 @@ The results of this work were presented at the 241st AAS meeting on Tuesday, Jan
 <p align="center">
   <blockquote class="embedly-card" data-card-align="left"><h4><a href="[https://public.nrao.edu/blogs/star-clusters-are-super-and-research-student-studies-why]">Star Clusters are Super, and Research Student Studies Why</a></h4><p>Star Clusters are Super, and Research Student Studies Why</p></blockquote>
   <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
-  Paper: Accepted to ApJ, [Preprint Available][https://ui.adsabs.harvard.edu/abs/2024arXiv240104835K/abstract]
+  Paper: Accepted to ApJ, [Preprint Available](https://ui.adsabs.harvard.edu/abs/2024arXiv240104835K/abstract)  
 </p>
 <br> 
 ### Determining Radial Velocities of Young Star Clusters   
