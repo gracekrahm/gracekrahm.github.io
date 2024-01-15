@@ -12,6 +12,8 @@ author_profile: true
 <sup> <i>Advisor:  [Prof. Desika Narayanan](https://users.astro.ufl.edu/~desika.narayanan/?_ga=2.141542002.1560168561.1688651532-1019492946.1677692060&_gl=1*10cz6p5*_ga*MTAxOTQ5Mjk0Ni4xNjc3NjkyMDYw*_ga_Z6EMXX5V8Z*MTY4ODY1MTUzMS4xMS4wLjE2ODg2NTE1MzEuMC4wLjA.*_ga_GJS7WPVXS3*MTY4ODY1MTUzMS4xMi4wLjE2ODg2NTE1MzEuMC4wLjA.) <br> University of Florida REU Program </i> </sup>  
 Spectral energy distributions (SEDs) are commonly used to derive various physical properties of galaxies such as mass and star formation rate. One difficulty of fitting SEDs to observations is the involvement of nebular line emission from HII regions around young stars. The additional flux from these emission lines can cause the fitted SEDs to overestimate the masses of galaxies. This is especially true as redshift increases due to the nebular lines making up a larger fraction of the total observed flux. Using the known masses of simulated galaxies as ground truth, we can create mock SEDs with and without nebular lines and quantify how they affect the galaxy SEDs and their derived properties. 
 
+The results of this work were presented at AAS 243 and the iPoster can be viewed in the [AAS 243 iPoster gallery](https://aas243-aas.ipostersessions.com/default.aspx?s=A3-E2-1C-29-DB-A9-6D-BF-ED-AA-A3-1E-82-D8-D8-31). 
+
 [![](https://markdown-videos-api.jorgenkh.no/youtube/VpnKB16MQpU)](https://youtu.be/VpnKB16MQpU)   
 
 ### Dense Gas Tracing SSC Formation in the Antennae Overlap
@@ -34,7 +36,7 @@ The results of this work were presented at the 241st AAS meeting on Tuesday, Jan
 <p align="center">
   <blockquote class="embedly-card" data-card-align="left"><h4><a href="[https://public.nrao.edu/blogs/star-clusters-are-super-and-research-student-studies-why]">Star Clusters are Super, and Research Student Studies Why</a></h4><p>Star Clusters are Super, and Research Student Studies Why</p></blockquote>
   <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
-  Paper: Under Review 
+  Paper: Accepted to ApJ, [Preprint Available](https://arxiv.org/abs/2401.04835) 
 </p>
 <br> 
 ### Determining Radial Velocities of Young Star Clusters   
