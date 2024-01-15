@@ -5,6 +5,12 @@ permalink: /talks/
 author_profile: true
 ---
 <hr style = 'background-color:#CCCAC9  ; border-width:0; color:#CCCAC9; height:1px; width:100%;' />
+<h3> The Impact of Nebular Line Emission on SED-Derived Galaxy Propeties </h3>
+<sup> <i>January 2024, 243rd AAS Meeting </i> </sup>   
+Here is a link to the [iPoster](https://aas243-aas.ipostersessions.com/default.aspx?s=A3-E2-1C-29-DB-A9-6D-BF-ED-AA-A3-1E-82-D8-D8-31).
+<br>
+
+<hr style = 'background-color:#CCCAC9  ; border-width:0; color:#CCCAC9; height:1px; width:100%;' />
 <h3> The Impact of Nebular Line Emission on SED-Derived Galaxy Properties </h3>
 <sup> <i>November 2023, Georgia Regional Astronomy Meeting</i> </sup> 
 <br> 
