@@ -7,14 +7,15 @@ author_profile: true
 #  - /resume
 ---
 # Current Projects
-<!--- add dense gas and nebular lines projects --->
-### The Impact of Nebular Line Emission on SED-Derived Galaxy Properties
-<sup> <i>Advisor:  [Prof. Desika Narayanan](https://users.astro.ufl.edu/~desika.narayanan/?_ga=2.141542002.1560168561.1688651532-1019492946.1677692060&_gl=1*10cz6p5*_ga*MTAxOTQ5Mjk0Ni4xNjc3NjkyMDYw*_ga_Z6EMXX5V8Z*MTY4ODY1MTUzMS4xMS4wLjE2ODg2NTE1MzEuMC4wLjA.*_ga_GJS7WPVXS3*MTY4ODY1MTUzMS4xMi4wLjE2ODg2NTE1MzEuMC4wLjA.) <br> University of Florida REU Program </i> </sup>  
-Spectral energy distributions (SEDs) are commonly used to derive various physical properties of galaxies such as mass and star formation rate. One difficulty of fitting SEDs to observations is the involvement of nebular line emission from HII regions around young stars. The additional flux from these emission lines can cause the fitted SEDs to overestimate the masses of galaxies. This is especially true as redshift increases due to the nebular lines making up a larger fraction of the total observed flux. Using the known masses of simulated galaxies as ground truth, we can create mock SEDs with and without nebular lines and quantify how they affect the galaxy SEDs and their derived properties. 
+### Vertical Structure of NGC 4565
+<sup> <i>Advisor:  [Prof. Adam Leroy](https://akleroy.github.io/) <br> The Ohio State University </i> </sup>  
+When looking to characterize the structure and star forming activity of a molecular gas cloud, one of the most important quantties to measure is the gas density. While physically the quantity of interest is the gas volume density, we are typically limited to measuring the surface density which does not show the whole picture. The face-on view of NGC 4565 gives us the ability to experically develop relations between the molecular gas scale height and how is changes across a galaxy. This relationship can then be used to find the volume density of a molecular cloud based on its surface density and scale height.
+<p align="center">
+  <img src="/files/Needle_Galaxy_4565.jpeg" style="width:40%">
+  <br>
+  Optical imaging of NGC 4565 by Ken Crawford (Rancho Del Sol Observatory).
+</p>
 
-The results of this work were presented at AAS 243 and the iPoster can be viewed in the [AAS 243 iPoster gallery](https://aas243-aas.ipostersessions.com/default.aspx?s=A3-E2-1C-29-DB-A9-6D-BF-ED-AA-A3-1E-82-D8-D8-31). 
-
-[![](https://markdown-videos-api.jorgenkh.no/youtube/VpnKB16MQpU)](https://youtu.be/VpnKB16MQpU)   
 
 ### Dense Gas Tracing SSC Formation in the Antennae Overlap
 <sup> <i>Advisors:  [Dr. Molly Finn](https://www.mollykfinn.com/) and Prof. Remy Indebetouw <br> National Radio Astronomy Observatory </i> </sup>  
@@ -27,18 +28,30 @@ In both Milky Way and extragalactic studies, dense gas has been shown to be clos
 
 
 # Past Projects
+
 ### Molecular Cloud Properties in the Merging Antennae Galaxies
 <sup> <i>Advisors:  [Dr. Molly Finn](https://www.mollykfinn.com/) and Prof. Remy Indebetouw <br> National Radio Astronomy Observatory REU Program </i> </sup>  
 The Antennae galaxies are a pair of merging galaxies that has formed thousands of super star clusters (SSCs). Using ALMA observations of CO, I identified and characterized the molecular clouds in the overlap region between the two galaxies. I found that the molecular clouds are very dense and require extremely hiigh external pressures to remain gravitationally bound due to their high amount of turbulence. This is consistent with other large galaxies with high star formation rates and molecular clouds at the centers of galaxies, regardless of their star formation rates. Comparing the Antennae molecular clouds to SSC-forming dwarf galaxies also suggests that the physical properties needed to form SSCs in dwarf galaxies are significantly different to massive galaxies.   
 
-The results of this work were presented at the 241st AAS meeting on Tuesday, January 10th. The iPoster can be viewed in the AAS [iPoster gallery](http://aas241-aas.ipostersessions.com/Default.aspx?s=38-DC-32-1C-F6-51-68-1C-6D-76-36-E6-2A-79-C1-CC). An article was also written by Brien Koberlein about the topic and can be found below.
+The results of this work [were presented at the 241st AAS meeting](http://aas241-aas.ipostersessions.com/Default.aspx?s=38-DC-32-1C-F6-51-68-1C-6D-76-36-E6-2A-79-C1-CC) with the full paper published in the [Astrophysical Journal](https://iopscience.iop.org/article/10.3847/1538-4357/ad2451).
+
+An article was also written by Brien Koberlein about the topic and can be found below.
 
 <p align="center">
   <blockquote class="embedly-card" data-card-align="left"><h4><a href="[https://public.nrao.edu/blogs/star-clusters-are-super-and-research-student-studies-why]">Star Clusters are Super, and Research Student Studies Why</a></h4><p>Star Clusters are Super, and Research Student Studies Why</p></blockquote>
   <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
-  Paper: Accepted to ApJ, [Preprint Available](https://ui.adsabs.harvard.edu/abs/2024arXiv240104835K/abstract)  
 </p>
 <br> 
+
+### The Impact of Nebular Line Emission on SED-Derived Galaxy Properties
+<sup> <i>Advisor:  [Prof. Desika Narayanan](https://users.astro.ufl.edu/~desika.narayanan/?_ga=2.141542002.1560168561.1688651532-1019492946.1677692060&_gl=1*10cz6p5*_ga*MTAxOTQ5Mjk0Ni4xNjc3NjkyMDYw*_ga_Z6EMXX5V8Z*MTY4ODY1MTUzMS4xMS4wLjE2ODg2NTE1MzEuMC4wLjA.*_ga_GJS7WPVXS3*MTY4ODY1MTUzMS4xMi4wLjE2ODg2NTE1MzEuMC4wLjA.) <br> University of Florida REU Program </i> </sup>  
+Spectral energy distributions (SEDs) are commonly used to derive various physical properties of galaxies such as mass and star formation rate. One difficulty of fitting SEDs to observations is the involvement of nebular line emission from HII regions around young stars. The additional flux from these emission lines can cause the fitted SEDs to overestimate the masses of galaxies. This is especially true as redshift increases due to the nebular lines making up a larger fraction of the total observed flux. Using the known masses of simulated galaxies as ground truth, we can create mock SEDs with and without nebular lines and quantify how they affect the galaxy SEDs and their derived properties. 
+
+The results of this work were presented at AAS 243 and the iPoster can be viewed in the [AAS 243 iPoster gallery](https://aas243-aas.ipostersessions.com/default.aspx?s=A3-E2-1C-29-DB-A9-6D-BF-ED-AA-A3-1E-82-D8-D8-31). 
+
+[![](https://markdown-videos-api.jorgenkh.no/youtube/VpnKB16MQpU)](https://youtu.be/VpnKB16MQpU)   
+<br> 
+
 ### Determining Radial Velocities of Young Star Clusters   
 <sup> <i>Advisor:  Dr. Alexandra Yep <br> Agnes Scott College </i> </sup>   
 How stars and star clusters are moving throughout the sky can tell us a lot about their star formation histories. Using the 0.9 m SARA (Southeastern Association for
